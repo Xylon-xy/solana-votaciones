@@ -12,11 +12,11 @@ Blockchain Debate es una dApp (Aplicación Descentralizada) diseñada para el Ha
 - Web3 Engine: @solana/web3.js para la interacción con el cluster de Solana.
 - Efectos: Confetti-js para la gamificación de la votación.
 
-📁 Estructura del Proyecto
+Estructura del Proyecto
 - index.html: Estructura de la dApp y estilos integrados para máxima velocidad de carga.
 - app.js: Lógica de negocio, gestión de estados de votación y conexión con la red de Solana.
 
-🚀 Instalación y Uso
+Instalación y Uso
 1. Clona este repositorio.
 2. Abre index.html en cualquier navegador moderno.
 3. ¡Crea un tema, conecta tu wallet y empieza a debatir!
